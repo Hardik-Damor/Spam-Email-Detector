@@ -1,4 +1,4 @@
-# Email-Spam-Detector-master
+# Spam-Email-Detector
 Project to detect spam mails
 
 Modules used are:-
